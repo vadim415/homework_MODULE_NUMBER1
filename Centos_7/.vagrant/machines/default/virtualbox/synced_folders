@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/srv/learn_epam/Centos_7","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
